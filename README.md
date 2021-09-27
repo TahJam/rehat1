@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Taher Jamali
 - 👀 I’m interested in Machine Learning and AI
-- 🌱 I’m currently enrolled at UC Davis and my major is Computer Science
+- 🌱 I’m a Computer Science major and am currently enrolled at UC Davis.
 
 <!---
 rehat1/rehat1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
