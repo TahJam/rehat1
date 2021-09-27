@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rehat1
+- 👋 Hi, I’m Taher Jamali
 - 👀 I’m interested in Machine Learning and AI
 - 🌱 I’m currently enrolled at UC Davis and my major is Computer Science
 
