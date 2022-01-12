@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Taher Jamali
 - 👀 I’m interested in Machine Learning and AI
+- I am looking for a back-end engineering position
 - 🌱 I’m a Computer Science major and am currently enrolled at UC Davis.
 
 <!---
